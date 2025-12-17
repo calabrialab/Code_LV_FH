@@ -8,7 +8,10 @@ This repository contains datasets used to analyze **lentiviral integration sites
 
 ### Data
 
-Mouse matrices are available in: - ['data/LD1718'][data/LD1718] - LD1718 experiment - ['data/LD27'][data/LD27] - LD27 experiment - ['data/LD3536'][data/LD3536] - LD3536 experiment
+Mouse matrices are available in: 
+- [`data/LD1718`][data/LD1718] - LD1718 experiment
+- [`data/LD27`][data/LD27] - LD27 experiment
+- [`data/LD3536`][data/LD3536] - LD3536 experiment
 
 Files are grouped by experiment and named using corresponding *mouse ID prefix*.
 
